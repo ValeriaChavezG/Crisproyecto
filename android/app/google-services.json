@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "274384300954",
+    "project_id": "southsl",
+    "storage_bucket": "southsl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274384300954:android:946f065f76cc0ab38d6823",
+        "android_client_info": {
+          "package_name": "com.mycompany.southsl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274384300954-4ekhiakjfn8c81iprcj0ojqh9h0bafs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.southsl",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "274384300954-97240clha5com5um5mj1vdh8n4gooub1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeau2bl3z3TZskGQ8BIxTJjBVrIPc51DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274384300954-97240clha5com5um5mj1vdh8n4gooub1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "274384300954-s8m2hm8nkijn3fbjjhoa1dmmeh4sh17b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.southsl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
